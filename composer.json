@@ -1,0 +1,21 @@
+{
+    "name": "riseno/laravel-ssl-protocol",
+    "description": "Laravel SSL middleware for cloudflare flexible ssl service",
+    "keywords": ["laravel", "ssl", "middleware", "cloudflare", "flexible", "riseno"],
+    "require": {
+        "illuminate/support": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Chan",
+            "email": "rc@riseno.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Riseno\\SSLProtocol\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
