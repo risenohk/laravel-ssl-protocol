@@ -1,5 +1,5 @@
 ## Laravel SSL Protocol
-[![Latest Stable Version](https://poser.pugx.org/riseno/localizable/v/stable)](https://packagist.org/packages/riseno/localizable) [![Total Downloads](https://poser.pugx.org/riseno/localizable/downloads)](https://packagist.org/packages/riseno/localizable) [![License](https://poser.pugx.org/riseno/localizable/license)](https://packagist.org/packages/riseno/localizable)
+[![Latest Stable Version](https://poser.pugx.org/riseno/laravel-ssl-protocol/v/stable)](https://packagist.org/packages/riseno/laravel-ssl-protocol) [![Total Downloads](https://poser.pugx.org/riseno/laravel-ssl-protocol/downloads)](https://packagist.org/packages/riseno/laravel-ssl-protocol) [![License](https://poser.pugx.org/riseno/laravel-ssl-protocol/license)](https://packagist.org/packages/riseno/laravel-ssl-protocol)
 
 Laravel SSL middleware that force http request to https for cloudflare flexible ssl service.
 
