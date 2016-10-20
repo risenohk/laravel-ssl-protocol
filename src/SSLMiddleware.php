@@ -5,7 +5,6 @@
  * Date: 18/5/2016
  * Time: 12:46 PM.
  */
-
 namespace Riseno\SSLProtocol;
 
 use Closure;
@@ -15,8 +14,9 @@ class SSLMiddleware
     /**
      * Handle an incoming request.
      *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  \Closure  $next
+     * @param \Illuminate\Http\Request $request
+     * @param \Closure                 $next
+     *
      * @return mixed
      */
     public function handle($request, Closure $next)
